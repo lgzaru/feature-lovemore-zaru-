@@ -15,4 +15,4 @@ For further reference, please consider the following sections:
   [*]http://localhost:8080/api/econet/getAllShops/{areaId}
 
 
-Video Recording: 
+Video Recording: https://drive.google.com/file/d/158apuo4GOiDDqlrGG-z4tpZMofftQBib/view?usp=sharing
